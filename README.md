@@ -6,8 +6,10 @@ by userauthtestMikkeli
 
 
 feuteres:
+
 Pages:
     1. log in, chatgpt inspired
     2. first time user, will be met with svg animations as tutorial
     3. notespage
         Layout:
+
